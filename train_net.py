@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import sys, os
 import caffe
 
-CAFFE_ROOT = "/home/wyd/caffe/"
+CAFFE_ROOT = "/home/ubuntu/caffe/"
 sys.path.insert(0, CAFFE_ROOT + 'python')
 
 caffe.set_mode_gpu()

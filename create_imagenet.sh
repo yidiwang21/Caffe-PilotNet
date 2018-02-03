@@ -3,12 +3,12 @@
 # N.B. set the path to the imagenet train + val data dirs
 set -e
 
-EXAMPLE=/home/wyd/Documents/self-driving-car/caffe-Autopilot/data
-DATA=//home/wyd/Documents/self-driving-car/caffe-Autopilot/data
-TOOLS=/home/wyd/caffe/build/tools
+EXAMPLE=/home/ubuntu/Documents/Caffe-PilotNet/data
+DATA=//home/ubuntu/Documents/Caffe-PilotNet/data
+TOOLS=/home/ubuntu/caffe/build/tools
 
-TRAIN_DATA_ROOT=/home/wyd/Documents/self-driving-car/caffe-Autopilot/data/train/
-VAL_DATA_ROOT=/home/wyd/Documents/self-driving-car/caffe-Autopilot/data/val/
+TRAIN_DATA_ROOT=/home/ubuntu/Documents/Caffe-PilotNet/data/train/
+VAL_DATA_ROOT=/home/ubuntu/Documents/Caffe-PilotNet/data/val/
 
 # Set RESIZE=true to resize the images to 256x256. Leave as false if images have
 # already been resized using another tool.
