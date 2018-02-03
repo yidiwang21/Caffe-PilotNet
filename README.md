@@ -4,4 +4,4 @@ A Caffe implementation of PilotNet described in NVIDIA paper: https://images.nvi
 
 Training curves:
 
-![alt text](https://github.com/yidiwang21/Caffe-PilotNet)
+![curve](https://github.com/yidiwang21/Caffe-PilotNet/blob/master/training_curves/pilotnet-label37--iter10000-1130.png?raw=true)
